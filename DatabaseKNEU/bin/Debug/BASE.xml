@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<ArrayOfFacultyClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FacultyClass>
+    <FacultyName>Факультет информационых систем и технологий</FacultyName>
+    <Cathedras>
+      <CathedraClass>
+        <CathedraName>Кафедра статистики</CathedraName>
+        <Faculty>Факультет информационых систем и технологий</Faculty>
+        <Teachers>
+          <TeacherClass>
+            <Name>Федор</Name>
+            <Lastname>Федоров</Lastname>
+            <Middlename>Федорович</Middlename>
+            <Age>45</Age>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Cathedra>Кафедра статистики</Cathedra>
+          </TeacherClass>
+          <TeacherClass>
+            <Name>Герасим</Name>
+            <Lastname>Герасименко</Lastname>
+            <Middlename>Герасимович</Middlename>
+            <Age>56</Age>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Cathedra>Кафедра статистики</Cathedra>
+          </TeacherClass>
+        </Teachers>
+      </CathedraClass>
+      <CathedraClass>
+        <CathedraName>Кафедра информатики и системологии</CathedraName>
+        <Faculty>Факультет информационых систем и технологий</Faculty>
+        <Teachers>
+          <TeacherClass>
+            <Name>Андрей</Name>
+            <Lastname>Андреев</Lastname>
+            <Middlename>Андреевич</Middlename>
+            <Age>36</Age>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Cathedra>Кафедра информатики и системологии</Cathedra>
+          </TeacherClass>
+        </Teachers>
+      </CathedraClass>
+    </Cathedras>
+    <Kurs>
+      <KursClass>
+        <Kurs>1</Kurs>
+        <Groups>
+          <GroupClass>
+            <Kurs>0</Kurs>
+            <GroupName>кис101</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+          <GroupClass>
+            <Kurs>0</Kurs>
+            <GroupName>кс101</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students>
+              <StudentClass>
+                <Name>Иван</Name>
+                <Lastname>Иванов</Lastname>
+                <Middlename>Иванович</Middlename>
+                <Age>20</Age>
+                <Group>кс101</Group>
+                <Faculty>Факультет информационых систем и технологий</Faculty>
+                <Cathedra>Кафедра статистики</Cathedra>
+                <Kurs>0</Kurs>
+              </StudentClass>
+              <StudentClass>
+                <Name>Петр</Name>
+                <Lastname>Петров</Lastname>
+                <Middlename>Петрович</Middlename>
+                <Age>21</Age>
+                <Group>кс101</Group>
+                <Faculty>Факультет информационых систем и технологий</Faculty>
+                <Cathedra>Кафедра статистики</Cathedra>
+                <Kurs>0</Kurs>
+              </StudentClass>
+            </Students>
+          </GroupClass>
+        </Groups>
+      </KursClass>
+      <KursClass>
+        <Kurs>2</Kurs>
+        <Groups>
+          <GroupClass>
+            <Kurs>1</Kurs>
+            <GroupName>кс202</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+          <GroupClass>
+            <Kurs>1</Kurs>
+            <GroupName>кит204</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+        </Groups>
+      </KursClass>
+      <KursClass>
+        <Kurs>3</Kurs>
+        <Groups>
+          <GroupClass>
+            <Kurs>2</Kurs>
+            <GroupName>кс301</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+          <GroupClass>
+            <Kurs>2</Kurs>
+            <GroupName>кс302</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students>
+              <StudentClass>
+                <Name>Николай</Name>
+                <Lastname>Николаев</Lastname>
+                <Middlename>Николаевич</Middlename>
+                <Age>21</Age>
+                <Group>кс302</Group>
+                <Faculty>Факультет информационых систем и технологий</Faculty>
+                <Cathedra>Кафедра статистики</Cathedra>
+                <Kurs>2</Kurs>
+              </StudentClass>
+              <StudentClass>
+                <Name>Андрей</Name>
+                <Lastname>Андреев</Lastname>
+                <Middlename>Андреевич</Middlename>
+                <Age>23</Age>
+                <Group>кс302</Group>
+                <Faculty>Факультет информационых систем и технологий</Faculty>
+                <Cathedra>Кафедра статистики</Cathedra>
+                <Kurs>2</Kurs>
+              </StudentClass>
+            </Students>
+          </GroupClass>
+          <GroupClass>
+            <Kurs>2</Kurs>
+            <GroupName>кис301</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students>
+              <StudentClass>
+                <Name>Игнат</Name>
+                <Lastname>Игнатюк</Lastname>
+                <Middlename>Игнатьевич</Middlename>
+                <Age>22</Age>
+                <Group>кис301</Group>
+                <Faculty>Факультет информационых систем и технологий</Faculty>
+                <Cathedra>Кафедра информатики и системологии</Cathedra>
+                <Kurs>2</Kurs>
+              </StudentClass>
+            </Students>
+          </GroupClass>
+        </Groups>
+      </KursClass>
+      <KursClass>
+        <Kurs>4</Kurs>
+        <Groups>
+          <GroupClass>
+            <Kurs>3</Kurs>
+            <GroupName>кс402</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+          <GroupClass>
+            <Kurs>3</Kurs>
+            <GroupName>кис401</GroupName>
+            <Faculty>Факультет информационых систем и технологий</Faculty>
+            <Students />
+          </GroupClass>
+        </Groups>
+      </KursClass>
+      <KursClass>
+        <Kurs>5</Kurs>
+        <Groups />
+      </KursClass>
+      <KursClass>
+        <Kurs>6</Kurs>
+        <Groups />
+      </KursClass>
+    </Kurs>
+  </FacultyClass>
+  <FacultyClass>
+    <FacultyName>Юридический факультет</FacultyName>
+    <Cathedras>
+      <CathedraClass>
+        <CathedraName>Кафедра финансового права</CathedraName>
+        <Faculty>Юридический факультет</Faculty>
+        <Teachers />
+      </CathedraClass>
+      <CathedraClass>
+        <CathedraName>Кафедра гражданского и трудового права</CathedraName>
+        <Faculty>Юридический факультет</Faculty>
+        <Teachers />
+      </CathedraClass>
+    </Cathedras>
+    <Kurs>
+      <KursClass>
+        <Kurs>1</Kurs>
+        <Groups />
+      </KursClass>
+      <KursClass>
+        <Kurs>2</Kurs>
+        <Groups />
+      </KursClass>
+      <KursClass>
+        <Kurs>3</Kurs>
+        <Groups>
+          <GroupClass>
+            <Kurs>2</Kurs>
+            <GroupName>пр301</GroupName>
+            <Faculty>Юридический факультет</Faculty>
+            <Students>
+              <StudentClass>
+                <Name>Константин</Name>
+                <Lastname>Константинов</Lastname>
+                <Middlename>Константинович</Middlename>
+                <Age>25</Age>
+                <Group>пр301</Group>
+                <Faculty>Юридический факультет</Faculty>
+                <Cathedra>Кафедра гражданского и трудового права</Cathedra>
+                <Kurs>2</Kurs>
+              </StudentClass>
+            </Students>
+          </GroupClass>
+        </Groups>
+      </KursClass>
+      <KursClass>
+        <Kurs>4</Kurs>
+        <Groups />
+      </KursClass>
+      <KursClass>
+        <Kurs>5</Kurs>
+        <Groups />
+      </KursClass>
+      <KursClass>
+        <Kurs>6</Kurs>
+        <Groups />
+      </KursClass>
+    </Kurs>
+  </FacultyClass>
+</ArrayOfFacultyClass>
